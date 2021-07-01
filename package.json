@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "github-push": "git push -u origin main"
   },
   "keywords": [],
   "author": "",
